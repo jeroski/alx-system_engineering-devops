@@ -1,2 +1,2 @@
 #!/bim/bash
-0 string HOLBERTON Holberton data !:mime
+ file -i -m .mgc *
